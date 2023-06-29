@@ -2,4 +2,4 @@
 
 - This is TheRDEM
 
-$${\color{red}Red}$$
+$${\color{lightblue}Welcome \space to \space my \space github \space profile :)}$$
