@@ -12,7 +12,7 @@
 
 <img src="https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" align="center" width="100%" />
 
-**Hello, I am a high school student who is currently living in Mongolia. I love coding. I can do a website using React also HTML. Now I am working on a Application with React Native.**
+**Hello, I am a high school student who is currently living in Mongolia. I love coding. I can do a website using React also HTML. Now I am working on an Application with React Native.**
 
 *Languages and tools:*
 
