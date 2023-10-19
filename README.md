@@ -6,14 +6,14 @@
 
 
  
-## $\textcolor{yellow}{This\ is\  Erdemee}$
+##$\textcolor{yellow}{This\ is\  Erdemee}$
 
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 
 <img src="https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" align="center" width="100%" />
 
-**Hello, I am a high school student who is living in Mongolia. I love coding. I can do a website using React, NextJs, Typescript, HTML, and applications with React Native. Currently working on my own website, application and trying new challenging projects.**
+**Hello, I am a high school student who is living in Mongolia. I love coding. I can do a website using React, NextJs, Typescript, HTML, and applications with React Native. Currently working on my own CV and trying new challenging projects.**
 
 
 *Languages and tools:*
